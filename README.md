@@ -71,4 +71,4 @@ This project demonstrated how AI-powered no-code tools can be leveraged to build
 You can view a live demo of the BankScreen application here: 
 **[BankScreen Live Demo](https://bankscreen.lovable.app/)**
 
-*(Note: Screenshots of the Dashboard, Smart Filters, Score Breakdown, and AI Assistant are available in the project files).*
+*(Note: A detailed report and screenshots of the Dashboard, Smart Filters, Score Breakdown, and AI Assistant are available in the project files).*
