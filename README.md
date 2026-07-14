@@ -2,6 +2,8 @@
 
 This repository contains the documentation and details for **BankScreen**, an AI-assisted web application designed specifically for the banking sector. This project was built using the Lovable no-code platform as part of the "Artificial Intelligence Foundations (CIS 2603)" course.
 
+<img width="947" height="350" alt="image" src="https://github.com/user-attachments/assets/42fff2da-9559-45ab-831f-197f8c2dbd6b" />
+
 ---
 
 ## 🚀 Project Overview
@@ -67,6 +69,10 @@ This project demonstrated how AI-powered no-code tools can be leveraged to build
 ---
 
 ## 🖼️ Live Demo & Documentation
+<img width="346" height="383" alt="image" src="https://github.com/user-attachments/assets/d220f8d0-514f-4723-ba37-34abf760748e" />
+<img width="339" height="396" alt="image" src="https://github.com/user-attachments/assets/ac3a4c95-dc5b-4b77-87cd-9713a0521faf" />
+<img width="514" height="422" alt="image" src="https://github.com/user-attachments/assets/62ef2c62-a127-4c03-8896-5ef835d710d0" />
+<img width="510" height="423" alt="image" src="https://github.com/user-attachments/assets/e906de33-a4a3-45a0-921f-049432b5ce9d" />
 
 You can view a live demo of the BankScreen application here: 
 **[BankScreen Live Demo](https://bankscreen.lovable.app/)**
