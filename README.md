@@ -84,4 +84,8 @@ The UI is designed with a professional Navy Blue and White color palette to conv
 You can view a live interactive demo of the BankScreen application here: 
 **[🚀 BankScreen Live Demo](https://bankscreen.lovable.app/ )**
 
-*(Note: The detailed project report and the synthetic candidate dataset (Excel) are available in the repository files).*
+### 📂 Project Files:
+* **[📄 Read the Full Project Report](BankScreen-Report.pdf)**
+* **[📊 View the Presentation Slides](BankScreen-Presentation.pdf)**
+* **[📁 Download the Synthetic Dataset (Excel)](ResumeScreeningApp_Data_120.xlsx)**
+
