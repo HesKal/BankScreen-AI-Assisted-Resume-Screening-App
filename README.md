@@ -1,4 +1,9 @@
 # 🏦 BankScreen - AI-Assisted Résumé Screening App
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Integration-Enabled-blue?style=for-the-badge" alt="AI Integration">
+  <img src="https://img.shields.io/badge/Platform-Lovable%20No--Code-orange?style=for-the-badge" alt="Lovable">
+  <img src="https://img.shields.io/badge/Database-Supabase-green?style=for-the-badge" alt="Supabase">
+</p>
 
 This repository contains the documentation and details for **BankScreen**, an AI-assisted web application designed specifically for the banking sector. This project was built using the Lovable no-code platform as part of the "Artificial Intelligence Foundations" course.
 
